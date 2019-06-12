@@ -1,7 +1,10 @@
 import random
 otp=random.randint(1,20)
 attempt=4
+<<<<<<< HEAD
 print(otp)
+=======
+>>>>>>> e8441fde5ce90aad3c07169325f8a3ab4e27bf98
 
 
 

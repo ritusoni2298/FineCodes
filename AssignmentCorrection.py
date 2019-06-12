@@ -1,8 +1,7 @@
 import random
 otp=random.randint(1,20)
 attempt=4
-print(otp)
-print(attempt)
+
 
 
 while True:

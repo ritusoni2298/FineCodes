@@ -2,7 +2,6 @@ import random
 otp=random.randint(1,20)
 attempt=4
 print(otp)
-print("in the branch")
 
 while True:
     try:

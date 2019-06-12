@@ -4,12 +4,15 @@ attempt=4
 <<<<<<< HEAD
 print(otp)
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> e8441fde5ce90aad3c07169325f8a3ab4e27bf98
 
 
 =======
 print("in the branch")
+>>>>>>> git2
+=======
 >>>>>>> git2
 
 while True:

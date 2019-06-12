@@ -2,7 +2,7 @@ import random
 otp=random.randint(1,20)
 attempt=4
 print(otp)
-
+print("hello")
 while True:
     try:
         uotp = int(input("enter no. between 1 to 20"))
